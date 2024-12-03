@@ -83,3 +83,9 @@ My Notes:
 npm i
 npm i dotenv
 npm i jsonwebtoken
+Only if it crashes and can't use server-5000
+npm i -g fkill-cli
+fkill :5000
+restart debugger after fkill
+fkill node = kills all programs.
+helmet is a lot of middlewares in one
